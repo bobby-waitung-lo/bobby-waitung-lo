@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## I am open to Data Scientist, Data Analyst, Machine Learning Engineer and other AI, Data Science related potisions.
 
+### Feel free to see my [CV](https://bobby-waitung-lo.github.io/CV/Bobby%20LO_CV.pdf)
 ### Please check my AWS, Google Cloud bages and Kaggle certificates in my [LinkedIn](https://www.linkedin.com/in/bobby-waitung-lo) and [Kaggle](https://www.kaggle.com/lwtbkaggle) profile.
 
 

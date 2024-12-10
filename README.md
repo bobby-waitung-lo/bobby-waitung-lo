@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ### I love machine learning and data science! During my Master's in Health Informatics, I developed a strong interest in artificial intelligence, software engineering and their applications in healthcare. I am passionate about using data science to solve real-world problems and therefore I keep studying on programming, cloud computing and machine learning. I graduated in [HyperionDev](https://www.hyperiondev.com/portfolio/WL23120013752/) Data Science Bootcamp. I am eager to contribute my skills to a team focused on developing innovative solutions using machine learning and data science.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,azure,aws,gcp,git,github,vscode,html,css)](https://skillicons.dev)
-- TensorFlow, Keras, Scikit-learn, Matplotlib, Seaborn, Google BigQuery, SQL, spaCy, Pandas, NumPy, Jupyter 
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,azure,aws,gcp,git,github,vscode,html,css)](https://skillicons.dev)
+- Python, Tableau, TensorFlow, Keras, Scikit-learn, Matplotlib, Seaborn, Google BigQuery, SQL, spaCy, Pandas, NumPy, Jupyter 
 
 ### 🌱 Currently Exploring
 

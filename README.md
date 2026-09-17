@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ### 📈 Featured Projects
 
 * **[Flight Delay Prediction & MLOps Pipeline](https://github.com/bobby-waitung-lo/flight_delay_prediction)** — Built an end-to-end predictive machine learning model (93% AUC-ROC) using Python, XGBoost, and SHAP explainability, deployed as an interactive Streamlit app.
-* **[Company Financial & Sales Performance Dashboard](https://github.com/bobby-waitung-lo)** — Designed an interactive Power BI dashboard featuring custom DAX measures for automated revenue, customer segmentation, and profit margin analysis.
+* **[Company Financial & Sales Performance Dashboard](https://github.com/bobby-waitung-lo/Drink_Manufacturing_Company_Sales)** — Designed an interactive Power BI dashboard featuring custom DAX measures for automated revenue, customer segmentation, and profit margin analysis.
 * **[Bank of England Base Rate Forecast](https://github.com/bobby-waitung-lo/boe_base_rate_forecast)** — Developed a polynomial regression forecasting model in Python to analyse economic indicators and predict interest rate changes.
 
 ---

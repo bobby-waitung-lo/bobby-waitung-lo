@@ -20,25 +20,47 @@ Here are some ideas to get you started:
 -->
 
 
-## I am open to Data Scientist, Data Analyst, Machine Learning Engineer and other AI, Data Science related potisions.
+## I am open to Operations Data Analyst, Business Intelligence Data Analyst and Data Science related positions.
 
-### Feel free to check my [CV](https://bobby-waitung-lo.github.io/CV/BobbyLO_CV.pdf)
-### Please also check my AWS, Google Cloud bages and Kaggle certificates in my [LinkedIn](https://www.linkedin.com/in/bobby-waitung-lo) and [Kaggle](https://www.kaggle.com/lwtbkaggle) profile.
+### Feel free to check my [CV](https://bobby-waitung-lo.github.io/CV/BobbyLO_CV.pdf), [LinkedIn](https://www.linkedin.com/in/bobby-waitung-lo) and [Kaggle](https://www.kaggle.com/lwtbkaggle) profile.
 
+---
 
 ## 🚀 About Me
-### I love machine learning and data science! During my Master's in Health Informatics, I developed a strong interest in artificial intelligence, software engineering and their applications in healthcare. I am passionate about using data science to solve real-world problems and therefore I keep studying on programming, cloud computing and machine learning. I graduated in [HyperionDev](https://www.hyperiondev.com/portfolio/WL23120013752/) Data Science Bootcamp. I am eager to contribute my skills to a team focused on developing innovative solutions using machine learning and data science.
+### Commercial Operations & Business Intelligence Data Analyst with an MSc in Health Informatics (Distinction) and formal training from Capital City College. I specialise in translating supply chain, sales, and operational data into interactive reporting solutions and actionable business outcomes.
+
+* 💡 **Proven Impact:** Reduced multi-site ingredient costs by 70%, boosted daily table revenue by 15%, and cut out-of-stock incidents by 20%.
+* 📊 **Core Focus:** Building end-to-end data pipelines, DAX data modeling, SQL querying, and executive Power BI dashboards.
+* 🎓 **Education:** MSc Health Informatics (Distinction, GPA 3.63/4.3) & BSc (Hons) Radiography.
+
+---
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,azure,aws,gcp,git,github,vscode,html,css)](https://skillicons.dev)
-- Python, Tableau, TensorFlow, Keras, Scikit-learn, Matplotlib, Seaborn, Google BigQuery, SQL, spaCy, Pandas, NumPy, Jupyter 
 
-### 🌱 Currently Exploring
+* **Business Intelligence:** Power BI (DAX, Star Schema, Power Query), Tableau, Advanced Excel
+* **Data Querying & Code:** SQL (PostgreSQL, Google BigQuery), Python (Pandas, NumPy, scikit-learn, Matplotlib)
+* **Analytics & Methods:** Time Series Forecasting, Linear Regression, Demand Modeling, Unit Economics, Margin Analysis
+* **Cloud & Tools:** Azure Data Fundamentals, AWS ML Foundations, Git, GitHub
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,azure,aws,gcp,git,github,vscode)](https://skillicons.dev)
 
-- 🚀 Learning Data Science and Machine Learning
-  - Exploring Tableau
-  - Diving into Convolutional Neural NetworkDeep and Reinforcement Learning
+---
 
+### 📈 Featured Projects
+
+* **[Flight Delay Prediction & MLOps Pipeline](https://github.com/bobby-waitung-lo)** — Built an end-to-end predictive machine learning model (93% AUC-ROC) using Python, XGBoost, and SHAP explainability, deployed as an interactive Streamlit app.
+* **[Company Financial & Sales Performance Dashboard](https://github.com/bobby-waitung-lo)** — Designed an interactive Power BI dashboard featuring custom DAX measures for automated revenue, customer segmentation, and profit margin analysis.
+* **[Bank of England Base Rate Forecast](https://github.com/bobby-waitung-lo)** — Developed a polynomial regression forecasting model in Python to analyse economic indicators and predict interest rate changes.
+
+---
+
+### 📜 Certifications
+
+* **Microsoft Certified:** Power BI Data Analyst Associate
+* **Microsoft Certified:** Azure Data Fundamentals
+* **DataCamp:** Data Analyst in Power BI & Tableau
+* **AWS Certified:** Machine Learning Foundations
+
+---
 ## 📬 Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/bobby-waitung-lo)
 
